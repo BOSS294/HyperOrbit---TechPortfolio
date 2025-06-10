@@ -1,0 +1,5 @@
+Vedant Padhiyar is a Full Stack Web Developer passionate about crafting immersive web experiences. 
+He has expertise in HTML, CSS, JavaScript (ES6+), PHP, MySQL, React, Three.js/WebGL, and modern tooling.
+He’s built 3D parallax sites, interactive timelines, AI chatbots, and RESTful APIs. 
+Vedant loves open source: he’s contributed fixes to several libraries and enjoys mentoring juniors. 
+Reach out to collaborate on innovative web projects, from small business sites to advanced 3D visualizations.
